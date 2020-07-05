@@ -6,6 +6,7 @@ touch next.config.js
 touch .babelrc.js
 
 mkdir pages
+mkdir components
 touch pages/index.tsx
 
 touch .gitignore
